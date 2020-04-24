@@ -1,0 +1,9 @@
+[
+  {
+    "Programming": "Aren Coskun",
+    "Version": "1.0",
+    "Language": "English",
+    "Programming Language": "Python with discord.py",
+    "Modules used": "json, ffmpeg, yt_dl, os, sys, random, discord.py"
+  }
+]
